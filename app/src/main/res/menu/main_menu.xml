@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/create_song"
+    android:title="Add a Song"></item>
+    <item android:id="@+id/display_songs"
+        android:title="Display Songs"></item>
+</menu>
